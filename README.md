@@ -1,12 +1,18 @@
 ## Welcome Aboard, Capt. 🕺
 
-<p align='left'>Hello, there! I'm <strong>Hafizha Ulinnuha Ahmad</strong>, a fellow undergrad stud from TIF'20 UGM. I'm originally from <strong>Bontang, East Borneo</strong>!</p>
-<p> Tbh, I'm not that techy person who codes everyday very passionately, but I'm pretty sure I have kind of interests in web development, esp. in front-end website development. I'm currently learning Next.js and stuffs. </p>
+<p align='left'>Hello, there! I'm <strong>Hafizha Ulinnuha Ahmad</strong>, a fellow undergrad stud from Information Engineering of Gadjah Mada University based in <strong>Bontang</strong> and <strong>Yogyakarta</strong>! MMy work revolves around web development, especially UI/UX design and front-end development.</p> 
 
+### 🔧 Technologies & Tools
+
+- **Programming Languages:** Javascript, Typescript, Python
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind, Bootstrap, Ant Design, Shadcn
+- **Tools & Technologies:** Git, GitHub, Figma, MySQL, PostgreSQL, MongoDB, Supabase
+
+## 🎉 Fun Facts
 Speaking of interests, I do also love doing these activities:
 
 - &#127926; Listening to musics
-- &#127928; Playing (a bit) of guitar
+- &#127928; Playing guitar (randomly)
 - &#127992; Playing and waching badminton
 - &#127912; Designing UIs
 - &#128247; Photography and videography
