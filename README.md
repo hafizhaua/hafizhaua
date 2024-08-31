@@ -1,6 +1,6 @@
 ## Welcome Aboard, Capt. 🕺
 
-<p align='left'>Hello, there! I'm <strong>Hafizha Ulinnuha Ahmad</strong>, a fellow undergrad stud from Information Engineering of Gadjah Mada University based in <strong>Bontang</strong> and <strong>Yogyakarta</strong>! MMy work revolves around web development, especially UI/UX design and front-end development.</p> 
+<p align='left'>Hello, there! I'm <strong>Hafizha Ulinnuha Ahmad</strong>, a fellow undergrad stud from Information Engineering of Gadjah Mada University based in <strong>Bontang</strong> and <strong>Yogyakarta</strong>! My work revolves around web development, especially UI/UX design and front-end development.</p> 
 
 ### 🔧 Technologies & Tools
 
